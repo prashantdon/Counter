@@ -1,33 +1,14 @@
-*{
-    margin: 0;
-    padding: 0;
-    background-color: aqua;
+#div1 {
+
+    height: 200rem;
+    background-color: black;
+background-image: url("https://th.bing.com/th/id/R.bb73defe582e194377efb42b9f29e9a8?rik=ajGwrmYHVml79w&pid=ImgRaw&r=0");
+background-repeat: no-repeat;
+background-size: 336rem 163rem;
 }
-.counter{
-    width: 80rem;
-    height: 50rem;
-    margin-left: 35%;
-    margin-top: 10%;
-    border: 25px solid blue;
-    outline: 25px solid red;
-}
-#the-number{
-    color: black;
-    font-size: 10rem;
-    text-align: center;
- 
-    width: 35rem;
-    height: 220px;
-    margin-left: 350px;
-}
-button {
-    height: 7rem;
-    width: 20rem;
-    border-radius: 20px;
-    margin-left: 75px;
-    background-color: rgb(24, 119, 119);
-    font-size: 4rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
-    margin-top: 35%;
+
+#div2 {
+    width: 170rem;
+    height: 100%;
+    background-color: rgb(31, 218, 25);
 }
